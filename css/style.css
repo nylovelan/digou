@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    margin: 20px auto;
+    width: 70%;
+}
+.title{
+    font: 30px "Microsoft YaHei";
+    margin-bottom: 10px;
+    color: #c40100;
+}
+.part{
+    border: 3px dotted #c40100;
+    padding-top: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+a{
+    margin-top: 20px;
+    font: 25px "Microsoft YaHei";
+}
+.part hr{
+    width: 910px;
+    margin: 10px 10px 15px 10px;
+    border: 1px solid #c40100;
+}
+table{
+    /*margin: 15px;*/
+}
+img{
+    width: 290px;
+    margin: 10px;
+}
+ul li{
+
+    text-align: center;
+}
+ul {
+    position: fixed;
+    top: 130px;
+    right: 60px;
+}
+ul li{
+    margin: 30px 0;
+}
+ul li a{
+    font: 20px "Microsoft YaHei";
+    padding: 15px 25px;
+    color: #c40100;
+}
+ul li a:hover{
+    color: #fff;
+    background: #c40100;
+}
